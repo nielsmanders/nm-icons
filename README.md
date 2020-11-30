@@ -24,12 +24,13 @@ New icons ideas can be submitted, plaese open a new **issue**. Thank you for you
 
 #### Version 1.0.0
 
-The SVG icons are of coarse compatible on all platforms. Currently working on a version 2.0.0 with even more icons. 
+The SVG icons are of coarse compatible on all platforms. Currently working on a version 2.0.0 with even more icons and maybe a website to view them all. 
 
 ## Changelog
 
 nm icons is following the MAJOR.MINOR.PATCH format from [Semantic Versioning](http://semver.org/).
 
+- v1.1.0 - Adding 45 new icons
 - V1.0.0 - Full release with 896 icons
 - V0.1.1 - Optimizing SVGs
 - V0.1.1 - First test release with 20 icons
