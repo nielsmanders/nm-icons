@@ -22,9 +22,8 @@ New icons ideas can be submitted, plaese open a new **issue**. Thank you for you
 
 ## Compatibility
 
-#### Version 1.0.0
-
-The SVG icons are of coarse compatible on all platforms. Currently working on a version 2.0.0 with even more icons and maybe a website to view them all. 
+#### Version 1.1.0
+All 940+ SVG icons are of course compatible on all platforms. Currently working on a version 2.0.0 with even more icons and maybe a website to view them all. 
 
 ## Changelog
 
